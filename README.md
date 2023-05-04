@@ -8,14 +8,24 @@
 - General
 - Game Design
 - Programming
-- 3D
-- 2D
-- Animations
-- Visual Effects
+- Art
 - Audio
 
 ## Game Design
 - [Ludo.ai](https://ludo.ai/)
+
+## Art
+
+- [AssetsAI](https://www.assetsai.art/)
+
+### 2D
+
+### 3D
+- [Texture Lab](https://www.texturelab.xyz/)
+
+### Animations
+
+### Visual Effects
 
 ## Contributing
 
