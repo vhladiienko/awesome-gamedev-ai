@@ -14,6 +14,9 @@
 - Visual Effects
 - Audio
 
+## Game Design
+- [Ludo.ai](https://ludo.ai/)
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
