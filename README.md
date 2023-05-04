@@ -5,9 +5,14 @@
 - 💲 - paid
 
 ## Contents 
-- [📰 Articles](#-articles)
-- [📺 Videos](#-videos)
-- [🔧 Tools](#-tools-and-templates)
+- General
+- Game Design
+- Programming
+- 3D
+- 2D
+- Animations
+- Visual Effects
+- Audio
 
 ## Contributing
 
