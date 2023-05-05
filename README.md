@@ -22,6 +22,7 @@
 
 ### 3D
 - [Texture Lab](https://www.texturelab.xyz/)
+- [3Dpresso](https://3dpresso.ai/)
 
 ### Animations
 
